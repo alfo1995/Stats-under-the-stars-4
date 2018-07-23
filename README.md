@@ -1,5 +1,7 @@
 # Stats-under-the-stars-4
 
+Competizione (**Hackaton**) tra giovani statistici, organizzati in squadre, che si sono sfidati nell'analisi di un dataset nel corso dell'intera nottata del 19-20 giugno, durante la quale è emerso l’utilità della statistica come strumento chiave in ottica decisionale.
+
 ![](https://www.unipa.it/persone/docenti/b/giovanni.boscaino/.content/immagini/1-ter.png)
 
 ## Data Pre-processing
