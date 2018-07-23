@@ -1,6 +1,6 @@
 # Stats-under-the-stars-4
 
-Competizione (**Hackaton**) tra giovani statistici, organizzati in squadre, che si sono sfidati nell'analisi di un dataset nel corso dell'intera nottata del 19-20 giugno, durante la quale è emerso l’utilità della statistica come strumento chiave in ottica decisionale.
+Competizione (**Hackaton**) tra giovani statistici e Data-scientist, organizzati in squadre, che si sono sfidati nell'analisi di un dataset, che L’azienda *Findomestic Banca/S.R.l.* (denominata Findomestic) ha messo a disposizione, nel corso dell'intera nottata del 19-20 giugno, durante la quale i partecipanti sono stati chiamati a proporre un modello statistico che consentisse di predire il comportamento dei clienti.
 
 ![](https://www.unipa.it/persone/docenti/b/giovanni.boscaino/.content/immagini/1-ter.png)
 
